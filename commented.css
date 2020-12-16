@@ -1,0 +1,62 @@
+html,
+body {
+	/* The following code fixes a weird body margin/padding
+     issue when using a top heavy navigation bar.
+     See: t.ly/E8fm for more relavent information
+     and potentially better solutions */
+	padding: 0;
+	margin: 0;
+	background-color: #ed6e51
+}
+
+.header {
+	/* The following code fixes a weird body header
+     issue when using a top heavy navigation bar.
+     See: t.ly/E8fm for more relavent information
+     and potentially better solutions */
+	margin: 0
+}
+
+nav {
+    display: flex;
+	width: 100%;
+    height: 50%;
+    padding-top: 20px;
+	justify-content: center;
+}
+
+
+/* Add media queries to buttons so they are
+resized for different screen sizes for reference
+see: https://ibb.co/kcwpn21 */
+
+.button {
+	background: transparent;
+	border: 1px solid #ffeb00;
+	border-radius: 15px;
+	width: 180px;
+	height: 60px;
+	color: #ffeb00;
+	display: inline-block;
+	font: normal bold 15px/60px "Roboto", sans-serif;
+	text-align: center;
+}
+
+a.select {
+	color: #fff;
+	font: normal bold 15px/60px "Roboto", sans-serif;
+	padding-left: 37px;
+	text-decoration: none;
+}
+
+
+/* Main title, adding a feature which rotates the
+text. See: https://codepen.io/amritleone/pen/qERPmW
+first sentence */
+
+h1 {
+	padding-top: 60px;
+	padding-left: 33.5px;
+	font: normal bold 50px "Roboto", sans-serif;
+	color: #fff;
+}
