@@ -1,7 +1,26 @@
+/*
+  _____           _ ___    
+ / ___/__ ___ _  (_) _/_ __
+/ (_ / _ `/  ' \/ / _/ // /
+\___/\_,_/_/_/_/_/_/ \_, / 
+                    /___/  
+
+The Gamify project is an application dedicated to creating an easier life for everyone. 
+
+The general rules of our comments follow: t.ly/TnMm
+Please submit your code for review then merge through our GitHub. 
+
+Our current city focus is: Belfast, Northern Ireland & neighbouring towns/cities. 
+
+This is the main Homepage CSS for our website so if you could kindly avoid editing
+this code without expressed purpose or permission.
+*/
+
 html,
 body {
-	/* The following code fixes a weird body margin/padding
-     issue when using a top heavy navigation bar.
+    /* The following code fixes a design issue in browsers
+     where they automatically add a padding and margin
+     to the body or html tag.
      See: t.ly/E8fm for more relavent information
      and potentially better solutions */
 	padding: 0;
@@ -10,8 +29,9 @@ body {
 }
 
 .header {
-	/* The following code fixes a weird body header
-     issue when using a top heavy navigation bar.
+	/* The following code fixes a design issue in browsers
+     where they automatically add a padding and margin
+     to the header tag.
      See: t.ly/E8fm for more relavent information
      and potentially better solutions */
 	margin: 0
