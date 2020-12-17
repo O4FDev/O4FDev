@@ -80,3 +80,17 @@ h1 {
 	font: normal bold 50px "Roboto", sans-serif;
 	color: #fff;
 }
+
+.gettingstarted {
+	border-radius: 15px;
+	color: #ED6E51;
+	font: normal bold 15px/60px "Roboto", sans-serif;
+	font-size: 30px;
+	font-weight: 100;
+	background-color: #FFF574;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	margin-left: 33.5px;
+ } 
