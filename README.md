@@ -26,6 +26,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-262626?style=for-the-badge&logo=ubuntu">
   <img alt="GPT-3" src="https://img.shields.io/badge/-GPT3-262626?style=for-the-badge&logo=openai">
   <img alt="KDE" src="https://img.shields.io/badge/-KDE-262626?style=for-the-badge&logo=kde">
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-262626?style=for-the-badge&logo=webpack">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=github">
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-262626?style=for-the-badge&logo=amazon-aws">
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-262626?style=for-the-badge&logo=figma">
