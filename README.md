@@ -17,6 +17,7 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-262626?style=for-the-badge&logo=vue.js">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-262626?style=for-the-badge&logo=mongodb">
+  <img alt="Raspberry-Pi" src="https://img.shields.io/badge/-Raspberry_PI-262626?style=for-the-badge&logo=Raspberry-Pi">
   </br>
   <img alt="MYSQL" src="https://img.shields.io/badge/-MySQL-262626?style=for-the-badge&logo=mysql">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
