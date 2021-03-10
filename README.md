@@ -15,7 +15,9 @@
   <img alt="React" src="https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=react">
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=sass">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-262626?style=for-the-badge&logo=vue.js">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux"></br>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-262626?style=for-the-badge&logo=mongodb">
+  </br>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-262626?style=for-the-badge&logo=ubuntu">
   <img alt="KDE" src="https://img.shields.io/badge/-KDE-262626?style=for-the-badge&logo=kde">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=github">
