@@ -19,6 +19,7 @@
   <img alt="KDE" src="https://img.shields.io/badge/-KDE-262626?style=for-the-badge&logo=kde">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=github">
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-262626?style=for-the-badge&logo=amazon">
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-262626?style=for-the-badge&logo=figma">
 </p><br>
 
 <p align="center">
