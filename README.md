@@ -18,6 +18,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-262626?style=for-the-badge&logo=mongodb">
   </br>
+  <img alt="MYSQL" src="https://img.shields.io/badge/-MySQL-262626?style=for-the-badge&logo=mysql">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-262626?style=for-the-badge&logo=ubuntu">
   <img alt="KDE" src="https://img.shields.io/badge/-KDE-262626?style=for-the-badge&logo=kde">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=github">
