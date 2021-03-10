@@ -18,6 +18,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-262626?style=for-the-badge&logo=linux">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-262626?style=for-the-badge&logo=mongodb">
   <img alt="Raspberry-Pi" src="https://img.shields.io/badge/-Raspberry_PI-262626?style=for-the-badge&logo=Raspberry-Pi">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-262626?style=for-the-badge&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=css3">
   </br>
   <img alt="MYSQL" src="https://img.shields.io/badge/-MySQL-262626?style=for-the-badge&logo=mysql">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
