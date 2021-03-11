@@ -34,6 +34,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-262626?style=for-the-badge&logo=docker">
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-262626?style=for-the-badge&logo=graphql">
   <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-262626?style=for-the-badge&logo=datadog">
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-262626?style=for-the-badge&logo=electron">
 </p><br>
 
 <p align="center">
