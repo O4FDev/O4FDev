@@ -10,7 +10,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
 </p>
 
-<h3 align="center">Frameworks & Programs & Other<br></h3>
+<h3 align="center">The programs, frameworks, and other stuff I'm familiar with...<br></h3>
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-262626?style=for-the-badge&logo=node.js">
