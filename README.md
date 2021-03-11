@@ -7,6 +7,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python">
   <img alt="Java" src="https://img.shields.io/badge/-Java-262626?style=for-the-badge&logo=java">
   <img alt="Perl" src="https://img.shields.io/badge/-Perl-262626?style=for-the-badge&logo=perl">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
 </p>
 
 <h3 align="center">Frameworks & Programs & Other<br></h3>
@@ -23,7 +24,6 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=css3">
   </br>
   <img alt="MYSQL" src="https://img.shields.io/badge/-MySQL-262626?style=for-the-badge&logo=mysql">
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-262626?style=for-the-badge&logo=ubuntu">
   <img alt="GPT-3" src="https://img.shields.io/badge/-GPT3-262626?style=for-the-badge&logo=openai">
   <img alt="KDE" src="https://img.shields.io/badge/-KDE-262626?style=for-the-badge&logo=kde">
