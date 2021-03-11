@@ -32,6 +32,7 @@
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-262626?style=for-the-badge&logo=amazon-aws">
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-262626?style=for-the-badge&logo=figma">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-262626?style=for-the-badge&logo=docker">
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-262626?style=for-the-badge&logo=graphql">
 </p><br>
 
 <p align="center">
