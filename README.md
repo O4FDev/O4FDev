@@ -13,6 +13,8 @@
 <h3 align="center">The programs, frameworks, and other stuff I'm familiar with...<br></h3>
 
 <p align="center">
+  <img alt="Assembly" src="https://img.shields.io/badge/-assembly-262626?style=for-the-badge&logo=assembly">
+  <img alt="C" src="https://img.shields.io/badge/-c-262626?style=for-the-badge&logo=c">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-262626?style=for-the-badge&logo=node.js">
   <img alt="React" src="https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=react">
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=sass">
