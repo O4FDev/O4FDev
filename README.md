@@ -6,7 +6,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript">
   <img alt="Python" src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=python">
   <img alt="Java" src="https://img.shields.io/badge/-Java-262626?style=for-the-badge&logo=java">
-  <img alt="Perl" src="https://img.shields.io/badge/-Perl-262626?style=for-the-badge&logo=perl">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=php">
 </p>
 
